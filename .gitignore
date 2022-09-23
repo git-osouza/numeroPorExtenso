@@ -1,0 +1,6 @@
+.vscode
+logs/
+node_modules
+config/VCAP_LOCAL.json
+config/httpRequests.json
+test/mocha.opts
