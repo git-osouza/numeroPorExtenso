@@ -1,4 +1,4 @@
-# Projeto númetros por extenso
+# Projeto números por extenso - Bootcamp IGTI
 # Link Heroku https://numerosporextenso.herokuapp.com/
 
 # --Tecnologias--
